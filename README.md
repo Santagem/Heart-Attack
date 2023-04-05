@@ -1,7 +1,8 @@
 # Heart-Attack Prediction
 
 # Columns Names
-ca: number of major vessels (0-3)
+
+- ca: number of major vessels (0-3)
 cp : Chest Pain type chest pain type
 Value 1: typical angina
 Value 2: atypical angina
