@@ -20,3 +20,5 @@
 - thall - Thalium Stress Test result (0,3)
 - target : 0= less chance of heart attack 1= more chance of heart attack
 
+# About
+For this project I divided it in two notebooks, one for train and test and the other for analysis and pre-processing. Then the original dataset was divided in three csv files: train, test and after pre-processing.
